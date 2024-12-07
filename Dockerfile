@@ -1,4 +1,4 @@
-# ADEM BUY NOBITA BOT MAKER
+# MADE BY NOBITA BOT MAKER
 
 FROM nikolaik/python-nodejs:python3.10-nodejs19
 
