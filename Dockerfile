@@ -1,3 +1,5 @@
+# ADEM BUY NOBITA BOT MAKER
+
 FROM nikolaik/python-nodejs:python3.10-nodejs19
 
 RUN apt-get update \
