@@ -15,7 +15,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","ll_NOBITA_BOT_DEVLOPER_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","momo_mbot")
+BOT_USERNAME = getenv("BOT_USERNAME","TG_VC_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -29,8 +29,8 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", -1001511253627))
 
-# Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7708051264))
+# Get this value from @NOBITA_ALL_BOT on Telegram by /id
+OWNER_ID = int(getenv("OWNER_ID", 6972508083))
 
 
 ## Fill these variables if you're deploying on heroku.
@@ -41,7 +41,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/NOBITA-PRIVETE-ACCOUNT/momomusic",
+    "https://github.com/vishalpandeynkp/TG-VC-BOT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -49,7 +49,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOBITA_ALL_BOT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NOBITA_SUPPORT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THE_VIP_BOY_OP")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,21 +87,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/9uused.webp"
+    "START_IMG_URL", "https://files.catbox.moe/r55zca.jpeg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/9uused.webp"
+    "PING_IMG_URL", "https://files.catbox.moe/r55zca.jpeg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/9uused.webp"
-STATS_IMG_URL = "https://files.catbox.moe/9uused.webp"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/9uused.webp"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/9uused.webp"
-STREAM_IMG_URL = "https://files.catbox.moe/9uused.webp"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/9uused.webp"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/9uused.webp"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/9uused.webp"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/9uused.webp"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/9uused.webp"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+STATS_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/r55zca.jpeg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/r55zca.jpeg"
+STREAM_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/r55zca.jpeg"
 
 
 def time_to_seconds(time):
