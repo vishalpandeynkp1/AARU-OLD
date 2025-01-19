@@ -23,14 +23,14 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vishalpandeynkp/TG-VC-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vishalpandeynkp1/AARU-OLD"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/vishalpandeynkp/TG-VC-BOT/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/vishalpandeynkp1/AARU-OLD/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg & Python by :
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/vishalpandeynkp/TG-VC-BOT && cd TG-VC-BOT`
+`git clone https://github.com/vishalpandeynkp1/AARU-OLD && cd AARU-OLD`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -57,7 +57,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 
-[![Contributors](https://contrib.rocks/image?repo=TG-VC-BOT/VISHALPANDEYNKP)](https://github.com/vishalpandeynkp/TG-VC-BOT/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TG-VC-BOT/VISHALPANDEYNKP)](https://github.com/vishalpandeynkp1/AARU-OLD/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/NOBITA_ALL_BOT"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
