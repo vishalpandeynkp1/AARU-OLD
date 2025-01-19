@@ -1,11 +1,4 @@
-#
-# Copyright (C) 2024 by Moonshining1@Github, < https://github.com/Moonshining1 >.
-#
-# This file is part of < https://github.com/Moonshining1/RAUSHAN-MUSIC > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/Moonshining1/RAUSHAN-MUSIC/blob/master/LICENSE >
-#
-# All rights reserved.
+
 #
 import asyncio
 import os
