@@ -39,6 +39,7 @@ wget
 yt-dlp
 bing_image_downloader
 bing-image-urls
+ntgcalls  # Added 'ntgcalls' dependency
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
