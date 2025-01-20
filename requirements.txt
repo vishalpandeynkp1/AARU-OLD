@@ -27,6 +27,7 @@ qrcode
 SafoneAPI==1.0.65
 tgcrypto
 gpytranslate
+pip install ntgcalls
 MukeshAPI
 search_engine_parser
 googlesearch-python
