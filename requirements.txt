@@ -2,7 +2,6 @@
 
 aiofiles
 aiohttp
-#asyncio==3.4.3
 asyncio
 beautifulsoup4
 dnspython
@@ -27,7 +26,6 @@ qrcode
 SafoneAPI==1.0.65
 tgcrypto
 gpytranslate
-pip install ntgcalls
 MukeshAPI
 search_engine_parser
 googlesearch-python
@@ -38,11 +36,10 @@ speedtest-cli
 unidecode
 urllib3
 wget
-git+https://github.com/KurimuzonAkuma/pyrogram@dev
 yt-dlp
 bing_image_downloader
+bing-image-urls
+git+https://github.com/KurimuzonAkuma/pyrogram@dev
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
-#git+https://github.com/Vivekkumar-IN/TheApi@main
-bing-image-urls
 git+https://github.com/TEAMPURVI/PurviAPI
